@@ -1,2 +1,2 @@
 # Portfolio
-Portfolio simples desenvolvido em HTML, CSS e JS
+Meu portfólio desenvolvido em HTML, CSS e JS.
