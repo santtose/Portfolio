@@ -43,7 +43,7 @@ body{
 }
 
 .navigation a:hover {
-	color: #f27609;
+	color: #3bf73b;
 }
 
 .navigation li.threeline-icon {
@@ -51,7 +51,7 @@ body{
 }
 
 .navigation li.threeline-icon:hover {
-	color: #f27609;
+	color: #4ee44e;
 	cursor: pointer;
 }
 
@@ -60,7 +60,7 @@ body{
 }
 
 .capa span{
-	color: #f27609;
+	color: #4ee44e;
 	display: block;
 }
 
@@ -133,7 +133,7 @@ body{
 }
 
 .main h3 {
-	color: #f27609;
+	color: #4ee44e;
 	font-size: 12px;
 	text-transform: uppercase;
 }
@@ -205,7 +205,7 @@ body{
 
 .blackbox-text h1{
 	font-size: 16px;
-	color: #f27609;
+	color: #4ee44e;
 	text-transform: uppercase;
 	margin-top: 0;
 }
@@ -218,7 +218,7 @@ body{
 
 
 .back-link {
-	color: #f27609;
+	color: #4ee44e;
 }
 
 
